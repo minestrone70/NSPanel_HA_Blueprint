@@ -64,10 +64,10 @@ blueprint:
               *SYSTEM settings*
 
               *Select the language for your NSPanel*
-            default: en
-            selector:
-              language:
-                languages: [en, bg, hr, cs, da, nl, et, fi, fr, de, el, he, hu, id, it, lv, lt, nb, pl, pt, ro, ru, sk, sl, es, sv, tr, uk]
+            default: it
+            #selector:
+            #  language:
+            #    languages: [en, bg, hr, cs, da, nl, et, fi, fr, de, el, he, hu, id, it, lv, lt, nb, pl, pt, ro, ru, sk, sl, es, sv, tr, uk]
           date_format:
             name: Date Format
             description: >
